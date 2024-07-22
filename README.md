@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a Computer Engineering student at VIIT, Pune 🏛.<br><br>I'm currently working on DSA and MERN Stack 💻<br><br>I am committed to continuous learning and enjoy applying new skills to real-world projects, ensuring that I stay ahead in the fast-evolving tech landscape⭐<br>
+I'm a Software Engineering student at VIIT, Pune 🏛.<br><br>I'm currently working on DSA and MERN Stack 💻<br><br>I am committed to continuous learning and enjoy applying new skills to real-world projects, ensuring that I stay ahead in the fast-evolving tech landscape⭐<br>
 
 
 # 💻 Tech Stack:
